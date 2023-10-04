@@ -1,7 +1,7 @@
 {
     "meta": {
-        "app_id": "org.example.same.fsv24.manifest.package",
-        "app_title": "Festival de la sidra de Villaviciosa",
+        "app_id": "org.example.same.sv23.manifest.package",
+        "app_title": "La sidra de Villaviciosa",
         "version": 1,
         "updated": "2023-10-04",
         "source_url": "https://uo232627.github.io/appLEW/data.json",
