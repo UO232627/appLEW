@@ -1,9 +1,9 @@
 {
     "meta": {
-        "app_id": "org.example.same.identifier.manifest.package",
-        "app_title": "City Street Heritage",
+        "app_id": "org.example.same.fsv24.manifest.package",
+        "app_title": "Festival de la sidra de Villaviciosa",
         "version": 1,
-        "updated": "2022-09-26",
+        "updated": "2023-10-04",
         "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/data.json",
         "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",        
         "marketplace_url": ""
@@ -36,23 +36,6 @@
                     "more": "More description, if you want",
                     "urls": [
                         "https://nl.wikipedia.org/wiki/De_Kotmadam_(Leuven)",
-                        "https://example.org/mypoi"
-                    ]
-                },
-                {
-                    "id": "uniqueID-2",
-                    "lat": "50.9",
-                    "lon": "4.8",
-                    "type": "statue",
-                    "name": "My Statue",
-                    "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
-                    ],
-                    "description": "One-paragraph description",
-                    "more": "More description, if you want",
-                    "urls": [
-                        "https://nl.wikipedia.org/MyPoi",
                         "https://example.org/mypoi"
                     ]
                 }
