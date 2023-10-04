@@ -4,7 +4,7 @@
         "app_title": "Festival de la sidra de Villaviciosa",
         "version": 1,
         "updated": "2023-10-04",
-        "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/data.json",
+        "source_url": "https://uo232627.github.io/appLEW/data.json",
         "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",        
         "marketplace_url": ""
     },
@@ -23,20 +23,20 @@
                 "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
             },
             "pois": [{
-                    "id": "uniqueID",
-                    "lat": "50.8789629",
-                    "lon": "4.7013242",
-                    "type": "statue",
-                    "name": "My Statue",
+                    "id": "cortina",
+                    "lat": "43.465824692090806",
+                    "lon": "-5.44357778214474",
+                    "type": "llagar",
+                    "name": "Llagar Sidra Cortina",
                     "images": [
                         "https://uo232627.github.io/appLEW/img/cortina.jpg",
-                        "https://uo232627.github.io/appLEW/img/cortina.jpg"
+                        "https://uo232627.github.io/appLEW/img/manzana_cortina.jpg",
+                        "https://uo232627.github.io/appLEW/img/restaurante_cortina.jpg"
                     ],
-                    "description": "One-paragraph description",
-                    "more": "More description, if you want",
+                    "description": "Sidra Corinta",
+                    "more": "Se echa alta, muy alta, y revuelve en el vaso una niebla dorada; luego espalma y de la espuma surge una estrella; y después de bebida y bien paladeada se forja en el bebedor un mundo alegre y optimista, a la medida de su gusto, un mundo hecho para su uso particular, pero creado en toda regla por breve evolución cosmológica, que se inicia al revolver la sidra en el vaso, la nebulosa, de la nebulosa la estrella y de la estrella al mundo; mundo tan lleno de optimismo y de entusiasmo emprendedor que si todos los grandes proyectos imaginados ante una botella de sidra se realizasen, Asturias sería un verdadero Edén y la redención plena del pomar lograda, pues si por la manzana perdimos el paraíso, por la sidra volveríamos a él. Cita célebre de Valentíin Andrés Álvarez",
                     "urls": [
-                        "https://nl.wikipedia.org/wiki/De_Kotmadam_(Leuven)",
-                        "https://example.org/mypoi"
+                        "https://www.sidracortina.com/"
                     ]
                 }
             ]
