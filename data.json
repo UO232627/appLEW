@@ -33,10 +33,43 @@
                         "https://uo232627.github.io/appLEW/img/manzana_cortina.jpg",
                         "https://uo232627.github.io/appLEW/img/restaurante_cortina.jpg"
                     ],
-                    "description": "Sidra Corinta",
+                    "description": "Sidra Cortina",
                     "more": "Se echa alta, muy alta, y revuelve en el vaso una niebla dorada; luego espalma y de la espuma surge una estrella; y después de bebida y bien paladeada se forja en el bebedor un mundo alegre y optimista, a la medida de su gusto, un mundo hecho para su uso particular, pero creado en toda regla por breve evolución cosmológica, que se inicia al revolver la sidra en el vaso, la nebulosa, de la nebulosa la estrella y de la estrella al mundo; mundo tan lleno de optimismo y de entusiasmo emprendedor que si todos los grandes proyectos imaginados ante una botella de sidra se realizasen, Asturias sería un verdadero Edén y la redención plena del pomar lograda, pues si por la manzana perdimos el paraíso, por la sidra volveríamos a él. Cita célebre de Valentíin Andrés Álvarez",
                     "urls": [
                         "https://www.sidracortina.com/"
+                    ]
+                },
+                {
+                    "id": "gaitero",
+                    "lat": "43.493080962597176",
+                    "lon": "-5.424036003307844",
+                    "type": "llagar",
+                    "name": "El Gaitero",
+                    "images": [
+                        "https://uo232627.github.io/appLEW/img/gaitero.jpg",
+                        "https://uo232627.github.io/appLEW/img/manzana_gaitero.jpg"
+                    ],
+                    "description": "El Gaitero es la marca de sidra más conocida de todo el mundo.",
+                    "more": "Nuestra historia comienza por una confluencia de acontecimientos y personas. Personas que apuestan por la plantación de manzanas en Villaviciosa, personas que añoran su tierra, sus bebidas y sus costumbres desde tierras lejanas y acontecimientos que habilitan el comercio marítimo desde el Puerto de Gijón.",
+                    "urls": [
+                        "https://www.sidraelgaitero.com/"
+                    ]
+                },
+                {
+                    "id": "festival",
+                    "lat": "43.481333849644415",
+                    "lon": "-5.433672632066335",
+                    "type": "fiesta",
+                    "name": "Festival de la sidra",
+                    "images": [
+                        "https://uo232627.github.io/appLEW/img/festival.jpg",
+                        "https://uo232627.github.io/appLEW/img/festival_gente.jpg",
+                        "https://uo232627.github.io/appLEW/img/festival_escanciar.jpg"
+                    ],
+                    "description": "El Gaitero es la marca de sidra más conocida de todo el mundo.",
+                    "more": "El evento, que tendrá carácter solidario por segundo año consecutivo, tendrá lugar el próximo 2 de septiembre en la Plaza del Ayuntamiento. La Asociación Galbán y la Asociación Pro-Personas con Discapacidad “Raitana”, destinatarias de la recaudación, serán las encargadas igualmente de dar el pistoletazo de salida a la fiesta con el “Primer culín”",
+                    "urls": [
+                        "https://www.elbuscolu.com/noticias-villaviciosa/fiesta-de-la-sidra-de-villaviciosa-2023-11270022.html"
                     ]
                 }
             ]
